@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>view-refresh.svg</file>
+        <file>search.svg</file>
+    </qresource>
+</RCC>

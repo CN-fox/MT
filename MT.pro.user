@@ -1,0 +1,465 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">MT.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">MT</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-dDUd6XQXA5,guid=e771d662f3dd2ad3a0821dfc53829633</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=zh_CN</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-70q3xx</value>
+    <value type="QString">GNOME_KEYRING_PID=1244</value>
+    <value type="QString">GTK_IM_MODULE=scim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/zhongke</value>
+    <value type="QString">JAVA_HOME=/opt/java/lastest</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LANGUAGE=zh_CN:en</value>
+    <value type="QString">LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=zhongke</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-zhongke</value>
+    <value type="QString">PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/bin:/opt/java/lastest/bin:/opt/java/lastest/bin</value>
+    <value type="QString">PWD=/home/zhongke</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/zhongke-desktop:@/tmp/.ICE-unix/1316,unix/zhongke-desktop:/tmp/.ICE-unix/1316</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1310</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-70q3xx/ssh</value>
+    <value type="QString">USER=zhongke</value>
+    <value type="QString">USERNAME=zhongke</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-zhongke-pwnLPz/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=701d6439919fbf269a101ccf5343e0ce-1401067057.366468-297149830</value>
+    <value type="QString">XMODIFIERS=@im=scim</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/zhongke/qt/MT/MT.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/zhongke/qt/MT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-dDUd6XQXA5,guid=e771d662f3dd2ad3a0821dfc53829633</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=zh_CN</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-70q3xx</value>
+    <value type="QString">GNOME_KEYRING_PID=1244</value>
+    <value type="QString">GTK_IM_MODULE=scim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/zhongke</value>
+    <value type="QString">JAVA_HOME=/opt/java/lastest</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LANGUAGE=zh_CN:en</value>
+    <value type="QString">LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=zhongke</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-zhongke</value>
+    <value type="QString">PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/bin:/opt/java/lastest/bin:/opt/java/lastest/bin</value>
+    <value type="QString">PWD=/home/zhongke</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/zhongke-desktop:@/tmp/.ICE-unix/1316,unix/zhongke-desktop:/tmp/.ICE-unix/1316</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1310</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-70q3xx/ssh</value>
+    <value type="QString">USER=zhongke</value>
+    <value type="QString">USERNAME=zhongke</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-zhongke-pwnLPz/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=701d6439919fbf269a101ccf5343e0ce-1401067057.366468-297149830</value>
+    <value type="QString">XMODIFIERS=@im=scim</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/zhongke/qt/MT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-DDy13nF9Ak,guid=c36f3f626bfa68e0d6c8a578537bfa3d</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=zh_CN</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-Lnxitv</value>
+    <value type="QString">GNOME_KEYRING_PID=1230</value>
+    <value type="QString">GTK_IM_MODULE=scim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/zhongke</value>
+    <value type="QString">JAVA_HOME=/opt/java/lastest</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LANGUAGE=zh_CN:en</value>
+    <value type="QString">LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=zhongke</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-zhongke</value>
+    <value type="QString">PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/bin:/opt/java/lastest/bin:/opt/java/lastest/bin</value>
+    <value type="QString">PWD=/home/zhongke</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/zhongke-desktop:@/tmp/.ICE-unix/1303,unix/zhongke-desktop:/tmp/.ICE-unix/1303</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1297</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-Lnxitv/ssh</value>
+    <value type="QString">USER=zhongke</value>
+    <value type="QString">USERNAME=zhongke</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-zhongke-tcnz0R/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=701d6439919fbf269a101ccf5343e0ce-1400633915.385581-803053769</value>
+    <value type="QString">XMODIFIERS=@im=scim</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/zhongke/qt/MT</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-pqogHYBpD2,guid=232ebd3862f91970e92666f453aa20a7</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=zh_CN</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-LdBvlN</value>
+    <value type="QString">GNOME_KEYRING_PID=1240</value>
+    <value type="QString">GTK_IM_MODULE=scim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/zhongke</value>
+    <value type="QString">JAVA_HOME=/opt/java/lastest</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LANGUAGE=zh_CN:en</value>
+    <value type="QString">LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=zhongke</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-zhongke</value>
+    <value type="QString">PATH=/usr/bin:/tools:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/bin:/opt/java/lastest/bin:/opt/java/lastest/bin:/home/zhongke/work/android-studio/sdk/tools</value>
+    <value type="QString">PWD=/home/zhongke</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SDK_HOME=/home/zhongke/work/android-studio/sdk</value>
+    <value type="QString">SESSION_MANAGER=local/zhongke-desktop:@/tmp/.ICE-unix/1312,unix/zhongke-desktop:/tmp/.ICE-unix/1312</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1306</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-LdBvlN/ssh</value>
+    <value type="QString">USER=zhongke</value>
+    <value type="QString">USERNAME=zhongke</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-zhongke-dCbNxF/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=701d6439919fbf269a101ccf5343e0ce-1403658405.594269-1604425769</value>
+    <value type="QString">XMODIFIERS=@im=scim</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/zhongke/qt/MT/MT.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/zhongke/qt/MT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-pqogHYBpD2,guid=232ebd3862f91970e92666f453aa20a7</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=zh_CN</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-LdBvlN</value>
+    <value type="QString">GNOME_KEYRING_PID=1240</value>
+    <value type="QString">GTK_IM_MODULE=scim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/zhongke</value>
+    <value type="QString">JAVA_HOME=/opt/java/lastest</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LANGUAGE=zh_CN:en</value>
+    <value type="QString">LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=zhongke</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-zhongke</value>
+    <value type="QString">PATH=/usr/bin:/tools:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/bin:/opt/java/lastest/bin:/opt/java/lastest/bin:/home/zhongke/work/android-studio/sdk/tools</value>
+    <value type="QString">PWD=/home/zhongke</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SDK_HOME=/home/zhongke/work/android-studio/sdk</value>
+    <value type="QString">SESSION_MANAGER=local/zhongke-desktop:@/tmp/.ICE-unix/1312,unix/zhongke-desktop:/tmp/.ICE-unix/1312</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1306</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-LdBvlN/ssh</value>
+    <value type="QString">USER=zhongke</value>
+    <value type="QString">USERNAME=zhongke</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-zhongke-dCbNxF/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=701d6439919fbf269a101ccf5343e0ce-1403658405.594269-1604425769</value>
+    <value type="QString">XMODIFIERS=@im=scim</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/zhongke/qt/MT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-IPOiTf1nUP,guid=f8833ea20238357b718e80c453a4de8d</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=zh_CN</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-TUUxba</value>
+    <value type="QString">GNOME_KEYRING_PID=1260</value>
+    <value type="QString">GTK_IM_MODULE=scim</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/zhongke</value>
+    <value type="QString">JAVA_HOME=/opt/java/lastest</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LANGUAGE=zh_CN:en</value>
+    <value type="QString">LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator</value>
+    <value type="QString">LOGNAME=zhongke</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome.mandatory.path</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-zhongke</value>
+    <value type="QString">PATH=/usr/bin:/tools:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/bin:/opt/java/lastest/bin:/opt/java/lastest/bin:/home/zhongke/work/android-studio/sdk/tools</value>
+    <value type="QString">PWD=/home/zhongke</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SDK_HOME=/home/zhongke/work/android-studio/sdk</value>
+    <value type="QString">SESSION_MANAGER=local/zhongke-desktop:@/tmp/.ICE-unix/1332,unix/zhongke-desktop:/tmp/.ICE-unix/1332</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1326</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-TUUxba/ssh</value>
+    <value type="QString">USER=zhongke</value>
+    <value type="QString">USERNAME=zhongke</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-zhongke-GHFoZD/database</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SESSION_COOKIE=701d6439919fbf269a101ccf5343e0ce-1403313803.67240-941430512</value>
+    <value type="QString">XMODIFIERS=@im=scim</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/zhongke/qt/MT</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
