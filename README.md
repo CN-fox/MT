@@ -5,8 +5,8 @@
 ##功能
 功能 |
 ----- |
-[加注释]()|
-[tcpdump]()|
-[make]()|
-[auto install]()|
+[加注释](#)|
+[tcpdump](#)|
+[make](#)|
+[auto install](#)|
 
